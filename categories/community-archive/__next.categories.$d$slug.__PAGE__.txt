@@ -1,0 +1,33 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0f4pk51ss8njk.js"
+4:"/_next/static/chunks/2b60txg2z0uy9.js"
+5:"/_next/static/chunks/3-l-m69e482r_.js"
+6:"/_next/static/chunks/1nhvb3ug-s8ka.js"
+7:I[82240,["$3","$4","$5","$6"],"default"]
+8:I[92188,["$3","$4","$5","$6"],"default"]
+f:"/_next/static/chunks/0qqm85igmn0lb.js"
+10:I[31838,["$3","$4","$5","$6","$f"],"HeroNetwork"]
+11:I[95206,["$3","$4","$5","$6","$f"],"CatalogView"]
+12:I[82689,["$3","$4","$5","$6"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[82689,["$3","$4","$5","$6"],"$16"]
+18:"MetadataBoundary"
+19:I[82689,["$3","$4","$5","$6"],"$18"]
+1a:I[40138,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"store-hero-background store-archive-network relative overflow-hidden px-4 py-8 text-center text-white","children":[["$","$L10",null,{"blend":true}],["$","div",null,{"className":"relative","children":[["$","h1",null,{"className":"text-store-section font-semibold break-words","children":"社区资料与论坛备份"}],["$","div",null,{"className":"text-store-nav mt-2 text-white/80","children":"社区资料、论坛记录与归档。"}]]}]]}],["$","$L11",null,{"active":"community-archive","resources":[{"slug":"legacy-0c6d873b97a5a6","title":"知乎-知乎资料备份","summary":"收录q9adg、俗不可耐等目录资料。","category":"community-archive","cover":"/images/reviewed/deafcb5c446a61ac3dee420e.webp","updated":"2026-10-24","featured":false,"tags":["community-archive"],"downloadCount":1},{"slug":"legacy-4477782ba7a4e9","title":"社区资料与论坛备份：分类资源合集","summary":"收录01-天涯-天涯论坛资料备份、02-微博-微博资料备份等目录资料。","category":"community-archive","cover":"/images/reviewed/a670dbb8be90699849362bc6.webp","updated":"2026-10-24","featured":true,"tags":["community-archive"],"downloadCount":1},{"slug":"legacy-5c50f2a68333a5","title":"天涯-天涯论坛资料备份","summary":"收录123个亏钱案例 .pdf、kk+大鹏等目录资料。","category":"community-archive","cover":"/images/reviewed/894b036d5373591bdc68a6f6.webp","updated":"2026-10-24","featured":false,"tags":["community-archive"],"downloadCount":1},{"slug":"legacy-d458a8dead688d","title":"微博-微博资料备份","summary":"收录张一鸣、张潇雨等目录资料。","category":"community-archive","cover":"/images/reviewed/2e82813c9196cbe1a1f5d93b.webp","updated":"2026-10-24","featured":false,"tags":["community-archive"],"downloadCount":1}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0qqm85igmn0lb.js","async":true}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$b"}}]]
+c:[["children",{"s":{"n":"slug","t":"d","k":"community-archive","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":"$a","s":"$b"},"c":"$Qe"}]]
+1:[["children",{"s":"categories","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"社区资料与论坛备份 · 小赵资料馆"}],["$","meta","1",{"name":"description","content":"社区资料、论坛记录与归档。"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zhao-library.netlify.app/categories/community-archive/"}],["$","meta","4",{"property":"og:title","content":"社区资料与论坛备份"}],["$","meta","5",{"property":"og:description","content":"社区资料、论坛记录与归档。"}],["$","meta","6",{"property":"og:url","content":"https://zhao-library.netlify.app/categories/community-archive/"}],["$","meta","7",{"property":"og:site_name","content":"小赵资料馆"}],["$","meta","8",{"property":"og:locale","content":"zh_CN"}],["$","meta","9",{"property":"og:image","content":"https://zhao-library.netlify.app/share.png"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"社区资料与论坛备份"}],["$","meta","13",{"name":"twitter:description","content":"社区资料、论坛记录与归档。"}],["$","meta","14",{"name":"twitter:image","content":"https://zhao-library.netlify.app/share.png"}],["$","link","15",{"rel":"icon","href":"/icon.svg"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1a","17",{}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$b"}},"a":"$@1c","u":"$@1d","b":"S8eFLU-UEvBy13pma5TV6"}
+14:null
+1d:true
+b:300
+b:C
+1c:0
+d:"$undefined"
+9:"$undefined"
+1b:"$undefined"
+15:"$undefined"

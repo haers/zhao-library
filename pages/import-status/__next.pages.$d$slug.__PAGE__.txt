@@ -1,0 +1,33 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0f4pk51ss8njk.js"
+4:"/_next/static/chunks/2b60txg2z0uy9.js"
+5:"/_next/static/chunks/3-l-m69e482r_.js"
+6:"/_next/static/chunks/1nhvb3ug-s8ka.js"
+7:I[82240,["$3","$4","$5","$6"],"default"]
+8:I[92188,["$3","$4","$5","$6"],"default"]
+f:"/_next/static/chunks/2dlrjjs1f72tu.js"
+10:I[31838,["$3","$4","$5","$6","$f"],"HeroNetwork"]
+11:I[85086,["$3","$4","$5","$6","$f"],"Text"]
+12:I[82689,["$3","$4","$5","$6"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[82689,["$3","$4","$5","$6"],"$16"]
+18:"MetadataBoundary"
+19:I[82689,["$3","$4","$5","$6"],"$18"]
+1a:I[40138,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"store-hero-background store-archive-network relative overflow-hidden px-4 py-8 text-center text-white","children":[["$","$L10",null,{"blend":true}],["$","div",null,{"className":"relative","children":[["$","h1",null,{"className":"text-store-section font-semibold break-words","children":"资源收录说明"}],["$","div",null,{"className":"text-store-nav mt-2 text-white/80","children":[["$","$L11",null,{"id":"updated"}]," ","2026-10-24"]}]]}]]}],["$","div",null,{"className":"px-store-gutter mx-auto max-w-[820px]","children":["$","section",null,{"className":"py-store-section","children":["$","article",null,{"className":"rounded-store-card bg-card store-article px-4 py-6 sm:px-8","children":["$","div",null,{"className":"store-article detail-markdown min-w-0 [overflow-wrap:anywhere]","children":[["$","h2","h2-0",{"id":"收录范围","children":"收录范围"}],"\n",["$","p","p-0",{"children":"已合并旧站11个分类、精选资源与广场舞专题的全部明确资源入口。旧站529条来源记录中，526个不同的有效入口已全部收录：2个复用已有详情，524个新增；与原有293条资料合并后，共817条资源。多个页面重复推荐的同一入口只保留一份详情。"}],"\n",["$","p","p-1",{"children":"百家讲坛等已整理目录保留原有文件清单；新增资源有本地目录记录的，展示对应日期的直属文件与子目录，没有记录的不补造目录、大小和版本。目录记录日期与本站整理日期分别展示，原有分享可能随时间变化。"}],"\n",["$","h2","h2-1",{"id":"暂不可分享","children":"暂不可分享"}],"\n",["$","div","table-0",{"className":"table-scroll","children":["$","table",null,{"children":[["$","thead","thead-0",{"children":["$","tr","tr-0",{"children":[["$","th","th-0",{"children":"资源"}],["$","th","th-1",{"children":"原分类"}],["$","th","th-2",{"children":"旧站记录的原因"}]]}]}],["$","tbody","tbody-0",{"children":["$","tr","tr-0",{"children":[["$","td","td-0",{"children":"逐玉·张凌赫剧照"}],["$","td","td-1",{"children":"图片写真与壁纸"}],["$","td","td-2",{"children":"旧站标记文件涉嫌违规或暂不支持分享，分享任务超时。未新增链接，也未重新尝试创建分享。"}]]}]}]]}]}],"\n",["$","p","p-2",{"children":["该条记录保留在本页，不计入可获取资源数量。",["$","a","a-0",{"href":"https://kuake.netlify.app/images-wallpapers","target":"_blank","rel":"noopener noreferrer","children":"原分类记录"}],"。"]}],"\n",["$","h2","h2-2",{"id":"配图","children":"配图"}],"\n",["$","p","p-3",{"children":["封面用于辨认主题，资料原封面与题材图分别维护；照片、插画和项目图形不代表网盘文件的出版版本或作者肖像。来源见",["$","a","a-0",{"href":"/pages/image-credits/","children":"图片来源"}],"。"]}]]}]}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/2dlrjjs1f72tu.js","async":true}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$b"}}]]
+c:[["children",{"s":{"n":"slug","t":"d","k":"import-status","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":"$a","s":"$b"},"c":"$Qe"}]]
+1:[["children",{"s":"pages","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"资源收录说明 · 小赵资料馆"}],["$","meta","1",{"name":"description","content":"旧站资源的收录范围、重复入口与暂不可分享条目。"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zhao-library.netlify.app/pages/import-status/"}],["$","meta","4",{"property":"og:title","content":"资源收录说明"}],["$","meta","5",{"property":"og:description","content":"旧站资源的收录范围、重复入口与暂不可分享条目。"}],["$","meta","6",{"property":"og:url","content":"https://zhao-library.netlify.app/pages/import-status/"}],["$","meta","7",{"property":"og:site_name","content":"小赵资料馆"}],["$","meta","8",{"property":"og:locale","content":"zh_CN"}],["$","meta","9",{"property":"og:image","content":"https://zhao-library.netlify.app/share.png"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"资源收录说明"}],["$","meta","13",{"name":"twitter:description","content":"旧站资源的收录范围、重复入口与暂不可分享条目。"}],["$","meta","14",{"name":"twitter:image","content":"https://zhao-library.netlify.app/share.png"}],["$","link","15",{"rel":"icon","href":"/icon.svg"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1a","17",{}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$b"}},"a":"$@1c","u":"$@1d","b":"S8eFLU-UEvBy13pma5TV6"}
+14:null
+1d:true
+b:300
+b:C
+1c:0
+d:"$undefined"
+9:"$undefined"
+1b:"$undefined"
+15:"$undefined"

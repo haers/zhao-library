@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /search/
+
+Sitemap: https://zhao-library.netlify.app/sitemap.xml

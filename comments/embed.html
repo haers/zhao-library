@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow" />
+    <title>评论</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background: transparent;
+      }
+      body {
+        font:
+          14px/1.6 system-ui,
+          sans-serif;
+        overflow-wrap: anywhere;
+        color: #30343b;
+      }
+      html.dark {
+        color-scheme: dark;
+      }
+      html.dark body {
+        color: #dbe1ea;
+      }
+      #comments {
+        display: flow-root;
+        min-width: 0;
+        /* 沿用店面 skin 的品牌色，不使用客户端默认绿色。 */
+        --waline-theme-color: #3f63e8;
+        --waline-active-color: #3f63e8;
+        --waline-font-size: 14px;
+      }
+      html.dark #comments .tk-input__inner::placeholder {
+        color: #b1b5c0;
+        opacity: 1;
+      }
+      iframe {
+        max-width: 100%;
+      }
+    </style>
+    <script src="runtime.js" defer></script>
+  </head>
+  <body>
+    <div id="comments"></div>
+  </body>
+</html>
